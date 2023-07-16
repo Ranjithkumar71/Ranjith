@@ -1,4 +1,4 @@
-# Ranjith
+# converting roman numbers to decimal numbers 
 tallies = {
     'I': 1,
     'V': 5,
